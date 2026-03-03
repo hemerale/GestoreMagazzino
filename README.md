@@ -54,7 +54,7 @@ C:\xampp\htdocs\
 
 [http://localhost/phpmyadmin](http://localhost/phpmyadmin)
 
-2. Creare un nuovo database (esempio: `LabChimica`)
+2. Creare un nuovo database (esempio: `Magazzino`)
 3. Importare il file:
 
 ```
